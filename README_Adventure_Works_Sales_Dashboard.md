@@ -1,6 +1,9 @@
 ## 📊 Adventure Works Sales Dashboard
 
-<img width="1921" height="972" alt="Adventure_Works" src="https://github.com/user-attachments/assets/249bbed3-13f0-4fda-b26f-1522645929ea" />
+<div align="center">
+<img width="900" height="500" alt="Screenshot from 2025-10-31 12-51-58" src="https://github.com/user-attachments/assets/5c769a71-1812-4aa1-a7dd-773906e8e8a1" />
+</div>
+
 
 
 ## 🎯 1. Introduction:
