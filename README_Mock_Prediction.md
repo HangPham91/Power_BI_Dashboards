@@ -1,6 +1,9 @@
 # 🧠 Predictive Health Analytics Dashboard
 
-<img width="1901" height="830" alt="mock_prediction" src="https://github.com/user-attachments/assets/29b21720-8dfd-4ff8-909b-17d4ebdc2fbe" />
+<div align="center">
+<img width="900" height="500" alt="Screenshot from 2025-10-29 16-53-04" src="https://github.com/user-attachments/assets/db2d336f-0e54-488b-aa25-13a7ddabcd3f" />
+
+</div>
 
 ## 🎯 1. Introduction:
 
