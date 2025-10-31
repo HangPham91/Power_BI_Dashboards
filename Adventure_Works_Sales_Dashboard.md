@@ -1,4 +1,4 @@
-## 📊 Case Study 1: Adventure Works Sales Dashboard
+## 📊 Adventure Works Sales Dashboard
 
 <img width="1921" height="972" alt="Adventure_Works" src="https://github.com/user-attachments/assets/249bbed3-13f0-4fda-b26f-1522645929ea" />
 
@@ -11,6 +11,7 @@
 - Tool: Microsoft Power BI
 - Type: Interactive Sales Dashboard
 - Goal: Visualize product sales performance across product categories, customer demographics, and time
+---
 
 ## ✅ 2. Key Skills Demonstrated:
 
@@ -55,7 +56,7 @@
   - Breakdown by Product Name, Order Status, Order Total
 
   - Used table visual for detailed transactional analysis
-
+---
 ## 📈 3. Insights Highlighted
 
 - Best-Selling Category by Weight: Mountain Bikes
@@ -65,3 +66,4 @@
 - City with Lowest Avg. Order Total: Long Beach
 
 - Product-Level Breakdown: Visualizes performance per product line
+---
