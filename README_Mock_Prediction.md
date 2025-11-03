@@ -13,8 +13,30 @@
 **Goal:** Visualize classification performance and feature influence (gender, age, etc.)
 
 ---
+## 🧩 2. Use Case
 
-## ✅ 2. Key Skills Demonstrated
+A hospital’s data science team has developed a predictive model to classify patient outcomes. This dashboard presents the model’s evaluation metrics in an intuitive, stakeholder-friendly format to support validation and deployment readiness.
+
+---
+
+## ❓ 3. Business Questions Addressed
+
+- How accurate is the prediction model?
+- How does model performance vary across genders?
+- What is the distribution of prediction probabilities?
+- Are there any demographic biases by age or gender?
+
+---
+
+
+## 🛠️ 4. Power BI Skills Demonstrated
+
+- KPI visual for accuracy
+- Confusion matrix and prediction outcome counts
+- Probability distributions and demographic comparison
+- Custom color-coded layouts
+- Storytelling with visual segmentation for non-technical stakeholders
+  
 
 - **Model Evaluation Visuals**
   - Prediction accuracy: `96.5%` in large pie/indicator chart
@@ -39,11 +61,20 @@
 
 ---
 
-## 📈 3. Insights Highlighted
+## 🔍 5. Insights Uncovered
 
-- **Model performs well** with high accuracy (96.5%)
-- **Gender-based distribution** provides fairness insights
-- **Probability confidence** is visualized across predicted classes
-- **Age vs Probability** helps in checking demographic drift or bias
+- **High Accuracy:** The model achieves 96.5% classification accuracy.
+- **Balanced Outcomes:** Majority of predictions are true positives and true negatives.
+- **Demographic Distribution:** Gender analysis reveals balanced prediction patterns. Age-based scatterplot shows uniform distribution.
+- **Probability Spread:** Histogram shows confidence range across predicted labels.
 
 ---
+
+## 💡 6. Business Impact
+
+- Assures stakeholders of model reliability prior to deployment.
+- Highlights fairness across demographic subgroups (gender, age).
+- Aids decision-makers in approving predictive tools for clinical use.
+
+---
+
