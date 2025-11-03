@@ -31,13 +31,6 @@ A hospital’s data science team has developed a predictive model to classify pa
 
 ## 🛠️ 4. Power BI Skills Demonstrated
 
-- KPI visual for accuracy
-- Confusion matrix and prediction outcome counts
-- Probability distributions and demographic comparison
-- Custom color-coded layouts
-- Storytelling with visual segmentation for non-technical stakeholders
-  
-
 - **Model Evaluation Visuals**
   - Prediction accuracy: `96.5%` in large pie/indicator chart
   - Classification outcomes: True Positive, True Negative, False Positive, False Negative
@@ -51,7 +44,7 @@ A hospital’s data science team has developed a predictive model to classify pa
   - Prediction by Gender (bar chart split by outcomes)
   - Scatter plot: Prediction Probability vs Age
 
-- **Custom UI/UX**
+- **Custom color-coded layouts**
   - Color-coded boxes (e.g., pink for “Actual”, green for “Gender”)
   - Clear labeling for classification outputs
 
