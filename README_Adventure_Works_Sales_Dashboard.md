@@ -16,7 +16,28 @@
 - Goal: Visualize product sales performance across product categories, customer demographics, and time
 ---
 
-## ✅ 2. Key Skills Demonstrated:
+## 🧩 2. Use Case
+
+A retail business wants to explore its sales data to identify top-performing products, analyze customer distribution, and monitor order trends over time. The dashboard aims to empower data-driven decisions for inventory, marketing, and operations teams.
+
+---
+
+## ❓ 3. Business Questions Addressed
+
+- Which product categories and subcategories contribute the most to revenue?
+- Which customer cities have the highest or lowest average order values?
+- How are order volumes and totals changing over time?
+- What is the distribution of the customer base and cities served?
+
+---
+
+## 🛠️ 4. Power BI Skills Demonstrated
+- **Summary**:
+  - Data modeling and relationship building
+  - KPI cards, time series, bar charts, and tables
+  - Natural language Q&A integration
+  - Interactive filters and slicers
+  - Dashboard storytelling design
 
 - **Data Modeling & Relationships**
 
@@ -32,7 +53,7 @@
 
 - **Time Series Analysis**
 
-  - Sales trend line visualized over daily/monthly range
+  - Sales trend line visualized over a daily/monthly range
 
   - Year-Quarter-Month breakdown for order totals
 
@@ -58,15 +79,22 @@
 
   - Breakdown by Product Name, Order Status, Order Total
 
-  - Used table visual for detailed transactional analysis
+  - Used a table visual for detailed transactional analysis
 ---
-## 📈 3. Insights Highlighted
+## 🔍 5. Insights Uncovered
 
-- Best-Selling Category by Weight: Mountain Bikes
+- **Top Performers:** Mountain Bikes dominate both total weight and sales quantity.
+- **Customer Geography:** 48 unique cities, with Long Beach having the lowest average order total ($1,200).
+- **Sales Trend:** Daily and monthly visualizations reveal consistent order patterns with occasional spikes.
+- **Customer Base:** 48 unique customer IDs processed in the time range.
+- **Product Breakdown:** Tabular details provide product-wise order totals and statuses for granular insights.
 
-- Highest Average Quantity Ordered: BMX Bikes
+---
 
-- City with Lowest Avg. Order Total: Long Beach
+## 💡 6. Business Impact
 
-- Product-Level Breakdown: Visualizes performance per product line
+- Helps inventory teams prioritize stock for high-performing categories.
+- Enables sales and marketing teams to target underperforming regions.
+- Empowers leadership with a snapshot of overall sales health and customer diversity.
+
 ---
