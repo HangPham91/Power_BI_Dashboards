@@ -32,12 +32,6 @@ A retail business wants to explore its sales data to identify top-performing pro
 ---
 
 ## 🛠️ 4. Power BI Skills Demonstrated
-- **Summary**:
-  - Data modeling and relationship building
-  - KPI cards, time series, bar charts, and tables
-  - Natural language Q&A integration
-  - Interactive filters and slicers
-  - Dashboard storytelling design
 
 - **Data Modeling & Relationships**
 
@@ -45,29 +39,37 @@ A retail business wants to explore its sales data to identify top-performing pro
 
   - Used fields like Order Date, Product Subcategory, Product Category, and Customer City
 
-- **Calculated Metrics**
+- **KPI cards, time series, bar charts, and tables**
 
-  - Sum of Order Total, Order Quantity, Product Weight
+  - **Bar Charts & KPIs**
 
-  - Average order total by city (e.g., Long Beach: $1,200)
+    - Sales by product category (e.g., Mountain Bikes dominate in weight and quantity)
 
-- **Time Series Analysis**
+    - Large card visuals showing:
 
-  - Sales trend line visualized over a daily/monthly range
+      - Total Sales: $6.8K
 
-  - Year-Quarter-Month breakdown for order totals
+      - Number of Cities: 48
 
-- **Bar Charts & KPIs**
+      - Number of Customers: 48
+    
+    - **Calculated Metrics**
 
-  - Sales by product category (e.g., Mountain Bikes dominate in weight and quantity)
+    - Sum of Order Total, Order Quantity, Product Weight
 
-  - Large card visuals showing:
+    - Average order total by city (e.g., Long Beach: $1,200)
 
-    - Total Sales: $6.8K
+  - **Time Series Analysis**
 
-    - Number of Cities: 48
+    - Sales trend line visualized over a daily/monthly range
 
-    - Number of Customers: 48
+    - Year-Quarter-Month breakdown for order totals
+        
+  - **Tabular View**
+
+    - Breakdown by Product Name, Order Status, Order Total
+
+    - Used a table visual for detailed transactional analysis
 
 - **Interactive Filtering**
 
@@ -75,11 +77,9 @@ A retail business wants to explore its sales data to identify top-performing pro
 
   - Visual-level filters and slicers for subcategories and dates
 
-- **Tabular View**
+  - Dashboard storytelling design
 
-  - Breakdown by Product Name, Order Status, Order Total
 
-  - Used a table visual for detailed transactional analysis
 ---
 ## 🔍 5. Insights Uncovered
 
